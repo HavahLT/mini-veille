@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -17,7 +17,7 @@ body {
   font-size: 100%;
   font-family: "PT Sans", sans-serif;
   color: #f8f7ee;
-  background-color: #29324e;
+  background-color: #6DE7FF;
 }
 
 a {
@@ -25,9 +25,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 header {
